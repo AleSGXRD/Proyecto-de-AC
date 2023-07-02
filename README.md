@@ -36,13 +36,13 @@ del algoritmo y mejorar sus habilidades en programación en lenguaje ensamblador
 Para usar mi codigo es simple:
 - primero necesita tener instalado el emu8086, el cual su instalacion esta en la carpeta multimedia del repositorio
 - Despues una vez abierto el programa marca el boton donde dice open tal cual se señala en la imagen
-<img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/emu1.png">
+<img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/emu1.jpg">
 - Abre el archivo que se encuentra en la carpeta codigo del repositorio
 - Una vez ya lo haya cargado darle el boton de emulate
-<img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/emu2.png">
+<img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/emu2.jpg">
 - Espera...
 - Una vez que te muestre esta ventana le das al boton Run y empecera a correr el programa
-<img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/emu3.png">
+<img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/emu3.jpg">
 - Con el programa ya corriendo podras usar las instrucciones indicadas en el menu
 - 1: Ingresar una nueva lista de numeros
 - 2: Empezar a ordenar la lista

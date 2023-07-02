@@ -34,28 +34,28 @@ del algoritmo y mejorar sus habilidades en programación en lenguaje ensamblador
 
 ## Instrucciones
 Para usar mi codigo es simple:
-- primero necesita tener instalado el emu8086, el cual su instalacion esta en la carpeta multimedia del repositorio
+- primero necesita tener instalado el emu8086, el cual su instalacion esta en la carpeta multimedia del repositorio<br/>
 - Despues una vez abierto el programa marca el boton donde dice open tal cual se señala en la imagen
 <img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/emu1.jpg">
-- Abre el archivo que se encuentra en la carpeta codigo del repositorio
+- Abre el archivo que se encuentra en la carpeta codigo del repositorio<br/>
 - Una vez ya lo haya cargado darle el boton de emulate
 <img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/emu2.jpg">
-- Espera...
+- Espera...<br/>
 - Una vez que te muestre esta ventana le das al boton Run y empecera a correr el programa
 <img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/emu3.jpg">
-- Con el programa ya corriendo podras usar las instrucciones indicadas en el menu
-- 1: Ingresar una nueva lista de numeros
-- 2: Empezar a ordenar la lista
-- 3: Mostar la lista
-- 4: Salir del programa
+- Con el programa ya corriendo podras usar las instrucciones indicadas en el menu<br/>
+- 1: Ingresar una nueva lista de numeros<br/>
+- 2: Empezar a ordenar la lista<br/>
+- 3: Mostar la lista<br/>
+- 4: Salir del programa<br/>
 - Cuando presione la primera instruccion asegurese de pasar la lista como esta indicado, aqui esta un ejemplo:
 <img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/1.png">
-- Asegurese de separar los numeros por comas(,) y terminar la lista con un punto(.)
+- Asegurese de separar los numeros por comas(,) y terminar la lista con un punto(.)<br/>
 - Una vez hecho esto presione dos para ordenar la lista
 <img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/2.png">
 - Esta operacion puede llevar tiempo dependiendo de la lista, por favor espere...
 <img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/3.png">
-- Cuando esta finalice de ordenar le mostrara este mensaje
+- Cuando esta finalice de ordenar le mostrara este mensaje<br/>
 - Y ya podra pulsar la opcion 3 para que le muestre la lista ordenada
 
 <br/>

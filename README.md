@@ -57,6 +57,7 @@ Para usar mi codigo es simple:
 <img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/3.png">
 - Cuando esta finalice de ordenar le mostrara este mensaje<br/>
 - Y ya podra pulsar la opcion 3 para que le muestre la lista ordenada
+<img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/4.png">
 
 <br/>
 Eso es todo!, si desea ingresar una nueva lista presione 1 y vuelva a repetir el proceso, en otro caso que quiera dejar usar el programa solo presione 4.

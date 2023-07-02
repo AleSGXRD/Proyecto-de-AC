@@ -36,13 +36,13 @@ del algoritmo y mejorar sus habilidades en programación en lenguaje ensamblador
 Para usar mi codigo es simple:
 - primero necesita tener instalado el emu8086, el cual su instalacion esta en la carpeta multimedia del repositorio
 - Despues una vez abierto el programa marca el boton donde dice open tal cual se señala en la imagen
-<img src ="https://raw.githubusercontent.com/AleSGXRD/Proyecto-de-AC/Multimedia/emu1.jpg">
+<img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/emu1.png">
 - Abre el archivo que se encuentra en la carpeta codigo del repositorio
 - Una vez ya lo haya cargado darle el boton de emulate
-<img src ="https://raw.githubusercontent.com/AleSGXRD/Proyecto-de-AC/Multimedia/emu2.jpg">
+<img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/emu2.png">
 - Espera...
 - Una vez que te muestre esta ventana le das al boton Run y empecera a correr el programa
-<img src ="https://raw.githubusercontent.com/AleSGXRD/Proyecto-de-AC/Multimedia/emu3.jpg">
+<img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/emu3.png">
 - Con el programa ya corriendo podras usar las instrucciones indicadas en el menu
 - 1: Ingresar una nueva lista de numeros
 - 2: Empezar a ordenar la lista
@@ -52,9 +52,9 @@ Para usar mi codigo es simple:
 <img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/1.png">
 - Asegurese de separar los numeros por comas(,) y terminar la lista con un punto(.)
 - Una vez hecho esto presione dos para ordenar la lista
-<img src ="https://raw.githubusercontent.com/AleSGXRD/Proyecto-de-AC/Multimedia/2.jpg">
+<img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/2.png">
 - Esta operacion puede llevar tiempo dependiendo de la lista, por favor espere...
-<img src ="https://raw.githubusercontent.com/AleSGXRD/Proyecto-de-AC/Multimedia/3.jpg">
+<img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/3.png">
 - Cuando esta finalice de ordenar le mostrara este mensaje
 - Y ya podra pulsar la opcion 3 para que le muestre la lista ordenada
 

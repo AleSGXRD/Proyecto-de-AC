@@ -58,5 +58,6 @@ Para usar mi codigo es simple:
 - Cuando esta finalice de ordenar le mostrara este mensaje
 - Y ya podra pulsar la opcion 3 para que le muestre la lista ordenada
 
+<br/>
 Eso es todo!, si desea ingresar una nueva lista presione 1 y vuelva a repetir el proceso, en otro caso que quiera dejar usar el programa solo presione 4.
 

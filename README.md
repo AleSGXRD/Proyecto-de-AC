@@ -49,7 +49,7 @@ Para usar mi codigo es simple:
 - 3: Mostar la lista
 - 4: Salir del programa
 - Cuando presione la primera instruccion asegurese de pasar la lista como esta indicado, aqui esta un ejemplo:
-<img src ="https://raw.githubusercontent.com/AleSGXRD/Proyecto-de-AC/Multimedia/1.jpg">
+<img src ="https://github.com/AleSGXRD/Proyecto-de-AC/blob/main/Multimedia/1.png">
 - Asegurese de separar los numeros por comas(,) y terminar la lista con un punto(.)
 - Una vez hecho esto presione dos para ordenar la lista
 <img src ="https://raw.githubusercontent.com/AleSGXRD/Proyecto-de-AC/Multimedia/2.jpg">

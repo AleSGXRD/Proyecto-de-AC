@@ -17,7 +17,7 @@ La interfaz gráfica debe tener un menú principal con las siguientes opciones:
 1. Ingresar lista
 2. Ordenar lista
 3. Mostrar lista ordenada
-4. Salir
+4. Salir <br/>
 Cuando el usuario seleccione la opción 1, se le pedirá que ingrese los números separados por
 comas. Estos números deben ser almacenados en un arreglo en memoria.
 Cuando el usuario seleccione la opción 2, se llamará a la función MergeSort implementada en

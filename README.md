@@ -3,7 +3,7 @@
 # Proyecto #11 MergeSort
 Proyecto final de la asignatura AC
 
-A mi me toco hacer el Proyecto #11 que es ordenar una lista de numeros enteros por el metodo Merge Sort:
+Mi Proyecto es el #11 que trata sobre ordenar una lista de numeros enteros por el metodo Merge Sort:
 
 ## Proyecto
 Implementar el algoritmo MergeSort en lenguaje ensamblador para ordenar una lista de
